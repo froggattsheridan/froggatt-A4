@@ -1,0 +1,7 @@
+{
+  "food": [
+    { "name": "Ham Sandwich", "price": 3, "calories": 230 },
+    { "name": "Apple", "price": 1, "calories": 50 },
+    { "name": "Milk", "price": 2, "calories": 85 }
+  ]
+}

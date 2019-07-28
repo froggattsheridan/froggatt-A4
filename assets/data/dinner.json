@@ -1,0 +1,8 @@
+{
+  "food": [
+    { "name": "Steak", "price": 15, "calories": 680 },
+    { "name": "Broccoli", "price": 3, "calories": 65 },
+    { "name": "Baked Potato", "price": 3, "calories": 180 },
+    { "name": "Red Wine", "price": 6, "calories": 170 }
+  ]
+}
