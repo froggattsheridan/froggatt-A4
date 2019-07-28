@@ -2,6 +2,6 @@
   "food": [
     { "name": "Fried Egg", "price": 1, "calories": 150 },
     { "name": "Toast", "price": 1, "calories": 75 },
-    { "name": "Orange Juice", "price": 1, "calories": 90 }
+    { "name": "Orange Juice", "price": 2, "calories": 90 }
   ]
 }
